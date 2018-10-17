@@ -5,11 +5,19 @@ Program allows users to search an array of student names and find info about ind
 Version History
 0.6 (10/16/2018)
 --Initial logic written, methods generated. Program functions.
---provides interface for user to find info about students, change student focus.
+--Provides interface for user to find info about students, change student focus.
 -Known issues
---exception catches not implemented
---copy editing needed
---looping occasionally loops after printing ending sysout. Difficulty reproducing. "finally" statement may be implemented for safety.
---code cleanup
-
-
+--Exception catches not implemented
+--Copy editing needed
+--Looping occasionally loops after printing ending sysout. Difficulty reproducing. "finally" statement may be implemented for safety.
+--Code cleanup
+1.0 (10/16/2018)
+--Added exception for IndexOutOfBounds.
+--Added method to parse String[] arrays for indices. Added menu option to directly search for names.
+--Code cleanup
+--Copy cleanup
+--Formatting
+--Comments added
+-Known Issues
+--Still no multiple exceptions. 
+--still no custom exceptions. 
